@@ -3,7 +3,7 @@
 int main(void) {
 float a,b;
 int i ;
-printf("Main");
+printf("M e n u");
 printf("\n1.Add(+)\n2. Subtract (-)\n3. Multiply (*)\n4. Divide (/)\n5. Modulo (%)\n");
 printf("Enter Number 1:");
 scanf("%f",&a);
